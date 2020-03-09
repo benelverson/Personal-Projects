@@ -1,2 +1,2 @@
 # Personal-Projects
-Personal pr
+Personal projects I have created for fun
